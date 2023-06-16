@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constructor.cs" />
+    <Compile Include="ConstructorPrivate.cs" />
     <Compile Include="Internal.cs" />
     <Compile Include="Private.cs" />
+    <Compile Include="PrivateProtectedAccessModifier.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Protected.cs" />
+    <Compile Include="ProtectedInternalAccessModifier.cs" />
     <Compile Include="Public.cs" />
   </ItemGroup>
   <ItemGroup>

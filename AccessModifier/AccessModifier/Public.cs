@@ -14,8 +14,7 @@ namespace AccessModifier
         public void AccessModifier()
         {
             Console.WriteLine("It is Public Access modifier.");
-            PrivateAccessModifier demo = new PrivateAccessModifier();
-            demo.Intro();
+            
         }
 
 
